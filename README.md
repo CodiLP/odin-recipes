@@ -5,3 +5,4 @@ A website with simple cooking recipes.
 This project will help learning basic html skills and GIT commands.
 
 
+# odin-recipes
